@@ -2,7 +2,7 @@
 <h3 align="center"> Senior Linux System Administrator 💻 </h3>
 
 <p align="center">
-<a href="url"><img src="https://coderslink.com/wp-content/uploads/2019/11/frontend_image-scaled.png" width="50%" /></a>
+<a href="url"><img src="https://www.ansible.com/hs-fs/hubfs/2015_Images/Blog/ansible-red-hat-blog-top.png?width=1035&name=ansible-red-hat-blog-top.png" width="50%" /></a>
 </p>
 
 <p align="center"> Completed my Mtech in Computer Science Stream from BITS PILANI (Wipro integrated Learning program). <br />
