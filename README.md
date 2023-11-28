@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 🤙,I am <a href="https://www.linkedin.com/in/sarathkumar-yanamandra-361444150/"> Sarath Kumar Yanamandra </a> </h1>
+<h1 align="center">Hello There!! ,I am <a href="https://www.linkedin.com/in/sarathkumar-yanamandra-361444150/"> Sarath Kumar Yanamandra </a> </h1>
 <h3 align="center"> Senior Linux System Administrator 💻 </h3>
 
 <p align="center">
